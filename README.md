@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ahmedbakry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedbakry024) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21461189) 
+<p style="display:flex;justify-content: space-around">
+<a href="https://instagram.com/_ahmedbakry"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" height="40"></a>
+<a href="https://linkedin.com/in/ahmedbakry024"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" height="40"></a>
+<a href="https://stackoverflow.com/users/21461189"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="40"></a>
+  </p>
 
 # 💻 Tech Stack:
 <p style="display:flex;justify-content: space-around">
