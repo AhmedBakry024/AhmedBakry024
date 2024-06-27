@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I'm currently working on creating a strong portfolio as a programmer<br>🤝🏻I'm looking to collaborate on strong open source projects<br>🎓 I'm currently studying software engineering at Cairo University<br>📧 Contact me at ahmedbakry024@gmail.com
+🔭I'm currently working on creating a strong portfolio as a programmer<br>🤝🏻I'm looking to collaborate on strong open source projects<br>🎓 I'm currently studying software engineering at Cairo University<br>📧 Contact me at a_bakry@outlook.com
 
 
 ## 🌐 Socials:
