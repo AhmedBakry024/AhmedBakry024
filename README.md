@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedbakry024&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedbakry024&theme=dark&hide_border=false)<br/>
+![]([![GitHub Streak](https://streak-stats.demolab.com?user=ahmedbakry024&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=EB7B40&sideLabels=79B5EB&currStreakLabel=79B5EB&hide_longest_streak=true)](https://git.io/streak-stats))<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbakry024&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
