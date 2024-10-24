@@ -49,7 +49,9 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbakry024&theme=dracula&show_icons=true&hide_border=false&count_private=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbakry024&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+  </p>
+  <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmedbakry024&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=EB7B40&sideLabels=79B5EB&currStreakLabel=79B5EB&hide_longest_streak=true" width="467"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbakry024&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="184"/>
   </p>
