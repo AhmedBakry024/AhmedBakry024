@@ -57,22 +57,20 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbakry024&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
-  </p>
-  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedbakry024&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=EB7B40&sideLabels=79B5EB&currStreakLabel=79B5EB&hide_longest_streak=true" width="467"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbakry024&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="184"/>
-  </p>
-  
+<!-- <p align="center"> -->
+<div style="display: flex">
+  <img src="https://github-stats-extended.vercel.app/api?username=ahmedbakry024&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="170"/>
+
+  <!-- <p align="center"> -->
+  <img src="https://streak-stats.demolab.com?user=ahmedbakry024&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=EB7B40&sideLabels=79B5EB&currStreakLabel=79B5EB&hide_longest_streak=true" height="170"/>
+  <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedbakry024&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="184"/>
+  </p> -->
+</div>
 <!-- ![ahmedbakry024's Stats](https://github-readme-stats.vercel.app/api?username=ahmedbakry024&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahmedbakry024&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=EB7B40&sideLabels=79B5EB&currStreakLabel=79B5EB&hide_longest_streak=true)
  ![ahmedbakry024's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbakry024&theme=dracula&show_icons=true&hide_border=false&layout=compact) -->
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=ahmedbakry024&icon=2&color=0)](https://visitcount.itsvg.in)
+-->
 
