@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Ethereum_Logo.png" height="36"/>
   <img src="https://companieslogo.com/img/orig/MDB_BIG.D-96d632a9.png?t=1720244492" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" height="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="36"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="36"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" height="28"/>
