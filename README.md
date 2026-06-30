@@ -12,36 +12,46 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
 # 💫 About Me:
+🔭 Building cloud-native infrastructure and Web3 dApps.<br>
+🤝🏻 Open to collaborating on open-source DevOps, Kubernetes tooling, and smart contracts.<br>
+🎓 CS Alum, Cairo University ('25) | Cloud Platform Development Trainee at ITI.<br>
+📧 a_bakry@outlook.com
+<!--
 🔭I'm currently working on Web3 and Blockchain Projects<br>
 🤝🏻I'm looking to collaborate on strong open projects in the fields that interest me<br>
 🎓 I'm currently studying software engineering at Cairo University<br>
 📧 Contact me at a_bakry@outlook.com
-
+-->
 
 ## 🌐 Socials:
 <p style="display:flex;justify-content: space-around">
-<a href="https://linkedin.com/in/ahmedbakry024"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" height="40"></a>
-<a href="https://stackoverflow.com/users/21461189"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="40"></a>
-<a href="https://instagram.com/_ahmedbakry"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" height="40"></a>
+<a href="https://linkedin.com/in/ahmedbakry024"> <img src= "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40"></a>
+<a href="https://instagram.com/_ahmedbakry"> <img src= "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="40"></a>
   </p>
 
 # 💻 Tech Stack:
 <p style="display:flex;justify-content: space-around">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_(container_engine)_logo_(cropped).png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="40"/>
+  <img src="https://www.i3design.jp/images/LP/LP202407/Logo/LogoGitHubActions.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/terraform-icon-zp95oytvn5ci8lsub9sbeh.png/terraform-icon-tew8r4clf5ocvoyj0o05j.png?_a=DATAiZiuZAA0" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" height="40"/>
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/180px-React_Logo_SVG.svg.png" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/120px-Solidity_logo.svg.png" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eth-diamond-rainbow.png/800px-Eth-diamond-rainbow.png" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/180px-Bootstrap_logo.svg.png" height="36"/>
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" height="28"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/180px-Node.js_logo.svg.png" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/768px-Spring_Boot.svg.png" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="36"/>
+  <img src="https://docs.soliditylang.org/en/latest/_static/img/logo.svg" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Ethereum_Logo.png" height="36"/>
+  <img src="https://companieslogo.com/img/orig/MDB_BIG.D-96d632a9.png?t=1720244492" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="36"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" height="28"/>
 </p>
 
