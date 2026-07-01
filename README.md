@@ -33,24 +33,24 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 <p style="display:flex;justify-content: space-around">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AWS-Dark.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_(container_engine)_logo_(cropped).png" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="40"/>
   <img src="https://www.i3design.jp/images/LP/LP202407/Logo/LogoGitHubActions.png" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40"/>
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/terraform-icon-zp95oytvn5ci8lsub9sbeh.png/terraform-icon-tew8r4clf5ocvoyj0o05j.png?_a=DATAiZiuZAA0" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Terraform-Dark.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" height="40"/>
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" height="40"/>
+  <!-- <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" height="40"/> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="36"/>
-  <img src="https://docs.soliditylang.org/en/latest/_static/img/logo.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Solidity.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Ethereum_Logo.png" height="36"/>
-  <img src="https://companieslogo.com/img/orig/MDB_BIG.D-96d632a9.png?t=1720244492" height="30"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MongoDB.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MySQL-Dark.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Dark.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="36"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" height="28"/>
 </p>
